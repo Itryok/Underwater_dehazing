@@ -12,11 +12,11 @@ images need enhancement to improve the quality of images to be used for various
 applications while preserving the valuable information contained in them.
 
 ## Block Diagram 
-![block_diagram](https://github.com/)
+![block_diagram](https://github.com/Itryok/Underwater_dehazing/blob/main/images/block_diagram.png)
 
 ## Results
-![block_diagram](https://github.com/)
-![block_diagram](https://github.com/)
+![block_diagram](https://github.com/Itryok/Underwater_dehazing/blob/main/images/block_diagram.png)
+![block_diagram](https://github.com/Itryok/Underwater_dehazing/blob/main/images/block_diagram.png)
 
 
 
